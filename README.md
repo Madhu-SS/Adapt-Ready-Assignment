@@ -19,6 +19,7 @@ Download the data from the file data source and provide possible data insights.
 2. Given an unsorted array of integers, find the length of the longest continuous
 increasing subsequence (subarray).
 
+
 Example 1:
 
 Input: [1,3,5,4,7]
