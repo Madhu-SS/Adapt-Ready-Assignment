@@ -1,7 +1,9 @@
 Business Analyst
 
+
 Note: All the answers need to be in a single .ipynb with necessary comments
 and respective question numbers
+
 
 
 1. Data set reference link: https://www.consumerfinance.gov/data-
@@ -13,7 +15,8 @@ Problem statement:
 
 Download the data from the file data source and provide possible data insights.
 
-3. Given an unsorted array of integers, find the length of the longest continuous
+
+2. Given an unsorted array of integers, find the length of the longest continuous
 increasing subsequence (subarray).
 
 Example 1:
@@ -28,7 +31,8 @@ Input: [2,2,2,2,2]
 
 Output: 1
 
-5. Given a list of non negative integers, arrange them such that they form the largest
+
+3. Given a list of non negative integers, arrange them such that they form the largest
 number.
  
  Example 1:
@@ -43,5 +47,6 @@ number.
  
  Output: &quot;9534330&quot;
 
-7. Store all the &quot;servlet-name&quot;, and &quot;servlet-class&quot; to a csv file from the attached
+
+4. Store all the &quot;servlet-name&quot;, and &quot;servlet-class&quot; to a csv file from the attached
 sample_json.json file using Python.
